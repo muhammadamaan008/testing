@@ -1,302 +1,34 @@
-[
-  {
-    "id": 1,
-    "name": "John Doe",
-    "online": true,
-    "picture": "https://picsum.photos/seed/15/60/60"
-  },
-  {
-    "id": 2,
-    "name": "kIfSa6kPqH",
-    "online": true,
-    "picture": "https://picsum.photos/seed/14/60/60"
-  },
-  {
-    "id": 3,
-    "name": "mVF6AYhDmy",
-    "online": false,
-    "picture": "https://picsum.photos/seed/94/60/60"
-  },
-  {
-    "id": 4,
-    "name": "4SREPIfWZS",
-    "online": false,
-    "picture": "https://picsum.photos/seed/77/60/60"
-  },
-  {
-    "id": 5,
-    "name": "tVESZv0yA4",
-    "online": true,
-    "picture": "https://picsum.photos/seed/26/60/60"
-  },
-  {
-    "id": 6,
-    "name": "ckk0rDNSH0",
-    "online": true,
-    "picture": "https://picsum.photos/seed/72/60/60"
-  },
-  {
-    "id": 7,
-    "name": "WYZV0ihpQI",
-    "online": true,
-    "picture": "https://picsum.photos/seed/30/60/60"
-  },
-  {
-    "id": 8,
-    "name": "94gmGECwM3",
-    "online": true,
-    "picture": "https://picsum.photos/seed/12/60/60"
-  },
-  {
-    "id": 9,
-    "name": "hSidpJf82a",
-    "online": false,
-    "picture": "https://picsum.photos/seed/71/60/60"
-  },
-  {
-    "id": 10,
-    "name": "MmA4uTJ9Bh",
-    "online": true,
-    "picture": "https://picsum.photos/seed/09/60/60"
-  },
-  {
-    "id": 11,
-    "name": "kWFd42I2eQ",
-    "online": true,
-    "picture": "https://picsum.photos/seed/42/60/60"
-  },
-  {
-    "id": 12,
-    "name": "atP46YbSwT",
-    "online": false,
-    "picture": "https://picsum.photos/seed/80/60/60"
-  },
-  {
-    "id": 13,
-    "name": "lEOrc75rIJ",
-    "online": true,
-    "picture": "https://picsum.photos/seed/31/60/60"
-  },
-  {
-    "id": 14,
-    "name": "X0o6iKavu8",
-    "online": true,
-    "picture": "https://picsum.photos/seed/63/60/60"
-  },
-  {
-    "id": 15,
-    "name": "yyXxkMlFHw",
-    "online": false,
-    "picture": "https://picsum.photos/seed/46/60/60"
-  },
-  {
-    "id": 16,
-    "name": "99Xu327qbt",
-    "online": false,
-    "picture": "https://picsum.photos/seed/69/60/60"
-  },
-  {
-    "id": 17,
-    "name": "Y8zTK9Y1yU",
-    "online": false,
-    "picture": "https://picsum.photos/seed/99/60/60"
-  },
-  {
-    "id": 18,
-    "name": "wLfupCt3Wm",
-    "online": false,
-    "picture": "https://picsum.photos/seed/26/60/60"
-  },
-  {
-    "id": 19,
-    "name": "cTy5XxjViP",
-    "online": false,
-    "picture": "https://picsum.photos/seed/54/60/60"
-  },
-  {
-    "id": 20,
-    "name": "SC5u0sf9zN",
-    "online": true,
-    "picture": "https://picsum.photos/seed/83/60/60"
-  },
-  {
-    "id": 21,
-    "name": "zjqbjmbMVr",
-    "online": true,
-    "picture": "https://picsum.photos/seed/38/60/60"
-  },
-  {
-    "id": 22,
-    "name": "Juym7Hsoqm",
-    "online": true,
-    "picture": "https://picsum.photos/seed/56/60/60"
-  },
-  {
-    "id": 23,
-    "name": "mrDPLKjYVL",
-    "online": false,
-    "picture": "https://picsum.photos/seed/33/60/60"
-  },
-  {
-    "id": 24,
-    "name": "gUqS0AwFfV",
-    "online": true,
-    "picture": "https://picsum.photos/seed/73/60/60"
-  },
-  {
-    "id": 25,
-    "name": "dUIwTjXMaT",
-    "online": true,
-    "picture": "https://picsum.photos/seed/76/60/60"
-  },
-  {
-    "id": 26,
-    "name": "owJoerjQr0",
-    "online": true,
-    "picture": "https://picsum.photos/seed/24/60/60"
-  },
-  {
-    "id": 27,
-    "name": "Mot5wgobk0",
-    "online": false,
-    "picture": "https://picsum.photos/seed/31/60/60"
-  },
-  {
-    "id": 28,
-    "name": "e9jXHs7dJ2",
-    "online": false,
-    "picture": "https://picsum.photos/seed/97/60/60"
-  },
-  {
-    "id": 29,
-    "name": "a8yq804n9y",
-    "online": false,
-    "picture": "https://picsum.photos/seed/05/60/60"
-  },
-  {
-    "id": 30,
-    "name": "h8dNXdwnJj",
-    "online": false,
-    "picture": "https://picsum.photos/seed/74/60/60"
-  },
-  {
-    "id": 31,
-    "name": "P2YITd5xKq",
-    "online": true,
-    "picture": "https://picsum.photos/seed/41/60/60"
-  },
-  {
-    "id": 32,
-    "name": "qJaLXjxojo",
-    "online": true,
-    "picture": "https://picsum.photos/seed/53/60/60"
-  },
-  {
-    "id": 33,
-    "name": "eo3S0Q3GBp",
-    "online": true,
-    "picture": "https://picsum.photos/seed/25/60/60"
-  },
-  {
-    "id": 34,
-    "name": "VktzM1L18T",
-    "online": true,
-    "picture": "https://picsum.photos/seed/77/60/60"
-  },
-  {
-    "id": 35,
-    "name": "qF0o3CrOx8",
-    "online": true,
-    "picture": "https://picsum.photos/seed/47/60/60"
-  },
-  {
-    "id": 36,
-    "name": "rvkBIFgUAm",
-    "online": true,
-    "picture": "https://picsum.photos/seed/55/60/60"
-  },
-  {
-    "id": 37,
-    "name": "ZgnYvRbBg4",
-    "online": true,
-    "picture": "https://picsum.photos/seed/11/60/60"
-  },
-  {
-    "id": 38,
-    "name": "8Y2017UiTi",
-    "online": true,
-    "picture": "https://picsum.photos/seed/85/60/60"
-  },
-  {
-    "id": 39,
-    "name": "YslIhDhkEl",
-    "online": false,
-    "picture": "https://picsum.photos/seed/33/60/60"
-  },
-  {
-    "id": 40,
-    "name": "39UN8a7nsW",
-    "online": false,
-    "picture": "https://picsum.photos/seed/52/60/60"
-  },
-  {
-    "id": 41,
-    "name": "s43FhQWZ3P",
-    "online": false,
-    "picture": "https://picsum.photos/seed/43/60/60"
-  },
-  {
-    "id": 42,
-    "name": "UJ7VnkViiW",
-    "online": false,
-    "picture": "https://picsum.photos/seed/87/60/60"
-  },
-  {
-    "id": 43,
-    "name": "sTigLPtO7x",
-    "online": false,
-    "picture": "https://picsum.photos/seed/52/60/60"
-  },
-  {
-    "id": 44,
-    "name": "5jqz6CyGdm",
-    "online": true,
-    "picture": "https://picsum.photos/seed/15/60/60"
-  },
-  {
-    "id": 45,
-    "name": "bNd49c9Cvs",
-    "online": false,
-    "picture": "https://picsum.photos/seed/21/60/60"
-  },
-  {
-    "id": 46,
-    "name": "CTzfexqHJi",
-    "online": false,
-    "picture": "https://picsum.photos/seed/11/60/60"
-  },
-  {
-    "id": 47,
-    "name": "cFbTJJAf4Z",
-    "online": true,
-    "picture": "https://picsum.photos/seed/07/60/60"
-  },
-  {
-    "id": 48,
-    "name": "OGGIdxD5Cu",
-    "online": false,
-    "picture": "https://picsum.photos/seed/65/60/60"
-  },
-  {
-    "id": 49,
-    "name": "JTOXjYCvB8",
-    "online": true,
-    "picture": "https://picsum.photos/seed/52/60/60"
-  },
-  {
-    "id": 50,
-    "name": "Janag9WXwT",
-    "online": true,
-    "picture": "https://picsum.photos/seed/44/60/60"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "description": "this is description 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "description": "this is description 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "description": "this is description 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "comment 2",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Profile 1"
   }
-]
+}
