@@ -1,4 +1,4 @@
-{
+[
   {
     "id": 1,
     "name": "John Doe",
@@ -299,4 +299,4 @@
     "online": true,
     "picture": "https://picsum.photos/seed/44/60/60"
   }
-}
+]
